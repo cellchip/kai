@@ -1,10 +1,3 @@
-cd D:\project\uan\uan-server
-
-bluemix api https://api.ng.bluemix.net
-
-bluemix login -u liu_bo@abchina.com -o liu_bo@abchina.com_1532575057329 -s dev
 
 bluemix app push uan-server
-
-bluemix app push uan-tomcat
 
