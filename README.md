@@ -1,5 +1,5 @@
 # United Aid Net
-@R&D Center Agricultural Bank Of China 
+@R&D Center 
 
 *IBM : Call for Code*
 
@@ -11,7 +11,7 @@
 ## Introduction To UAN
 
 ### Financial Challenges After Natural Disasters
-Over the past ten years, there have been more than 30 devastating earthquakes worldwide. During the Sichuan earthquake in 2008, one of the largest earthquakes in human history, the Agricultural Bank of China (ABC) offered immediate aid and financial services to victims. To better understand their needs, we interviewed employees who survived the disaster, and discovered 4 pain points:
+Over the past ten years, there have been more than 30 devastating earthquakes worldwide. During the Sichuan earthquake in 2008, one of the largest earthquakes in human history, our bank  offered immediate aid and financial services to victims. To better understand their needs, we interviewed employees who survived the disaster, and discovered 4 pain points:
 
 1. Cash and cards are often lost during the earthquake, which leaves people unable to meet their daily needs.
 2. People have concerns about their account security, so they want to inquire and report the loss as soon as possible. 
@@ -24,7 +24,7 @@ Over the past ten years, there have been more than 30 devastating earthquakes wo
 
 ### United Aid Net: Cash Withdrawal With FaceID
 
-In recent years, ABC and many other banks in China have started to adopt facial recognition technology. At present, around 12,000 of ABC’s ATMs use facial recognition to withdraw cash, and the daily transaction volume has reached to 25,000. However, this still hasn’t solved the four pain points above, because people can’t withdraw cash from their relative’s accounts if their bank cards are issued by different banks or if they are in foreign countries. To address this issue, ABC has developed the United Aid Net (UAN) solution as part of the [Call for Code](https://callforcode.org/) challenge. Based on facial recognition, the UAN allows temporary shared financial services among family members or friends during disasters. 
+In recent years, our bank and many other banks in China have started to adopt facial recognition technology. At present, around 12,000 of ABC’s ATMs use facial recognition to withdraw cash, and the daily transaction volume has reached to 25,000. However, this still hasn’t solved the four pain points above, because people can’t withdraw cash from their relative’s accounts if their bank cards are issued by different banks or if they are in foreign countries. To address this issue, ABC has developed the United Aid Net (UAN) solution as part of the [Call for Code](https://callforcode.org/) challenge. Based on facial recognition, the UAN allows temporary shared financial services among family members or friends during disasters. 
 
 <br>
 <div align=center><img width="531" height="300" title="Cash Withdrawal With FaceID" src="https://github.com/cellchip/uan/blob/master/resources/幻灯片4.PNG"/></div>
