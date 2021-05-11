@@ -3,7 +3,7 @@
   "data": [
     {
       "amt": 88888,
-      "bankOfDeposit": "abchina",
+      "bankOfDeposit": "*",
       "code": "6228000000009999",
       "customerInformation": {
         "id": "1",
