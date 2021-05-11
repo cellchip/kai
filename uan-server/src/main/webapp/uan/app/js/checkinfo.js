@@ -370,7 +370,7 @@
         }
         
       })
-      .fail(function(jqXHR, textStatus, errorThrown) {
+      .fail(function(jqXHR, textStatus, errorThrown) { 
         // TODO - 登录返回失败
 
       }); // END OF ajax
