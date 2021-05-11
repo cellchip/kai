@@ -5,7 +5,7 @@
     "bindingCards": [
       {
         "amt": 88888,
-        "bankOfDeposit": "abchina",
+        "bankOfDeposit": "*",
         "code": "622800000000999",
         "customerInformation": {
           "id": "1",
@@ -89,7 +89,7 @@
       }
     ],
     "state": "SIGNED",
-    "transactBank": "abchina",
+    "transactBank": "*",
     "transactDate": 1535079521396
   },
   "userId": "110110200001011234"
