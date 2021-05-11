@@ -354,7 +354,7 @@
             customerInformation: _this.accountVMs[0].customerInformation,
             personnelRelationships: _this.relativeVMs,
             state: 'SIGNED',
-            transactBank: 'abchina',
+            transactBank: '*',
             // transactDate: // 修改为只展示不提交 _this.transactDate
           },
           userId: loginVM.userId
