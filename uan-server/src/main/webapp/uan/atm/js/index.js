@@ -53,7 +53,7 @@
     </header>\
     <section id="content"></section>\
     <footer class="webside">\
-      欢迎光临中国农业银行  www.abchina.com\
+      欢迎光临中国农业银行  www.*.com\
     </footer>',
       layoutSelector = '#content',
       rootSelector = '#app';
@@ -166,7 +166,7 @@
         <img src="image/card/maestro.png"/>\
         <img src="image/card/cirrus.png"/>\
       </div>\
-      <div class="footer-left">www.abchina.com</div>\
+      <div class="footer-left">www.*.com</div>\
       <div class="footer-middle">NO.18010101 SOFTVER:V10.0.0.0</div>\
       <div class="footer-right"></div>\
     </footer>';
